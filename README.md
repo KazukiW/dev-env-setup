@@ -11,10 +11,7 @@
 - [x] VsVim をマーケットプレイスからインストール
 - [ ] C#拡張機能の導入（例：Roslynator）
     - [x] Roslynator 2022
-    - [ ] CodeMaid
-    - [ ] C# Extensions
-    - [ ] GitHub Extension for Visual Studio
-    - [ ] NuGet Package Manager Enhancements
+    - [x] CodeMaid
 - [ ] プロジェクトテンプレートの整備
 
 ### 2. フォント設定
