@@ -10,7 +10,11 @@
 ### 1. Visual Studioの準備
 - [x] VsVim をマーケットプレイスからインストール
 - [ ] C#拡張機能の導入（例：Roslynator）
-    - [ ] Roslynator 2022
+    - [x] Roslynator 2022
+    - [ ] CodeMaid
+    - [ ] C# Extensions
+    - [ ] GitHub Extension for Visual Studio
+    - [ ] NuGet Package Manager Enhancements
 - [ ] プロジェクトテンプレートの整備
 
 ### 2. フォント設定
